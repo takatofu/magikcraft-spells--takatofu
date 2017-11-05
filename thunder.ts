@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
 function thunder() {
-	magik.shakti();
-    
+    const there = magik.aspecto();
+    magik.shakti(there);
 }
