@@ -1,7 +1,8 @@
 const magik = magikcraft.io;
 
 function thand() {
-    //const there = magik.aspecto();
-    magik.shakti();
+    const there = magikcraft.io.aspecto();
+    magik.dixit(there);
+    magik.shakti(there);
 	
 }
