@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
 function superjump() {
-	magik.exsultus
+	magik.exsultus(10);
 }
