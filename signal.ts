@@ -7,5 +7,4 @@ function signal() {
     magik.stella(there);
     magik.stella(there);
     magik.stella(there);
-    magik.shakti(there);
 }
