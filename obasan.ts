@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function signal() {
+function obasan() {
 	const there = magik.aspecto();
     magik.stella(there);
     magik.stella(there);
